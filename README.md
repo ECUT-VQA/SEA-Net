@@ -92,16 +92,3 @@ CUDA_VISIBLE_DEVICES=1 python -u test_staircase_ensemble.py
 --output_name output.txt
 ```
 
-## Citation
-
-If you find this code is useful for your research, please cite:
-
-```
-@article{sun2023blind,
-  title={Blind quality assessment for in-the-wild images via hierarchical feature fusion and iterative mixed database training},
-  author={Sun, Wei and Min, Xiongkuo and Tu, Danyang and Ma, Siwei and Zhai, Guangtao},
-  journal={IEEE Journal of Selected Topics in Signal Processing},
-  year={2023},
-  publisher={IEEE}
-}
-```
