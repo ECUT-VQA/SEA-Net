@@ -1,4 +1,4 @@
-# StairIQA
+# SEA-Net
 
 This is a repository for the models proposed in the paper "Blind Quality Assessment for in-the-Wild Images via
 Hierarchical Feature Fusion and Iterative Mixed Database
